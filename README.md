@@ -1,2 +1,2 @@
 # DevFolio
-stefancaras.github.io/devfolio/
+https://stefancaras.github.io/devfolio/
